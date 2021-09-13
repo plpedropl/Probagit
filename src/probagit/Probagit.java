@@ -17,6 +17,7 @@ public class Probagit {
     public static void main(String[] args) {
         System.out.println("Начало проекта");
         System.out.println("Первые изменения");
+        System.out.println("Второе изменение");
     }
     
 }
